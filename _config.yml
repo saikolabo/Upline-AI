@@ -1,0 +1,26 @@
+title:       "Upline AI"
+description: "Les meilleurs outils IA pour gamers et streamers"
+baseurl:     "/minion-farm"
+url:         "https://saikolabo.github.io"
+
+markdown:    kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: /:path/
+
+# Apply post layout to all articles automatically
+defaults:
+  - scope: { path: "posts/fr" }
+    values: { layout: post }
+  - scope: { path: "posts/en" }
+    values: { layout: post }
+
+exclude:
+  - "*.py"
+  - requirements.txt
+  - .env
+  - .env.example
+  - data/
+  - __pycache__/
