@@ -7,6 +7,7 @@ on:
   schedule:
     - cron: '0 22 * * *'      # 22:00 UTC — research + write + publish
     - cron: '0 10 * * 1,3,5'  # 10:00 UTC Mon/Wed/Fri — Reddit comments
+    - cron: '0 9 * * *'       # 09:00 UTC daily — Pinterest pins
   workflow_dispatch:
     inputs:
       step:
@@ -20,6 +21,7 @@ on:
           - write
           - publish
           - reddit
+          - pinterest
 
 permissions:
   contents: write
@@ -35,10 +37,14 @@ jobs:
       TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
       GITHUB_USERNAME:      ${{ github.repository_owner }}
       GITHUB_REPO:          ${{ github.event.repository.name }}
-      REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
-      REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-      REDDIT_USERNAME:      ${{ secrets.REDDIT_USERNAME }}
-      REDDIT_PASSWORD:      ${{ secrets.REDDIT_PASSWORD }}
+      REDDIT_CLIENT_ID:          ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_CLIENT_SECRET:      ${{ secrets.REDDIT_CLIENT_SECRET }}
+      REDDIT_USERNAME:           ${{ secrets.REDDIT_USERNAME }}
+      REDDIT_PASSWORD:           ${{ secrets.REDDIT_PASSWORD }}
+      PINTEREST_APP_ID:          ${{ secrets.PINTEREST_APP_ID }}
+      PINTEREST_ACCESS_TOKEN:    ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+      PINTEREST_BOARD_ID_FR:     ${{ secrets.PINTEREST_BOARD_ID_FR }}
+      PINTEREST_BOARD_ID_EN:     ${{ secrets.PINTEREST_BOARD_ID_EN }}
 
     steps:
       - name: Checkout
@@ -93,3 +99,10 @@ jobs:
           (github.event_name == 'schedule' && github.event.schedule == '0 10 * * 1,3,5') ||
           (github.event_name == 'workflow_dispatch' && inputs.step == 'reddit')
         run: python minion_reddit.py
+
+      # ── Pinterest (daily 09:00 UTC) ──────────────────────────────────────────
+      - name: Pinterest
+        if: >
+          (github.event_name == 'schedule' && github.event.schedule == '0 9 * * *') ||
+          (github.event_name == 'workflow_dispatch' && inputs.step == 'pinterest')
+        run: python minion_pinterest.py
