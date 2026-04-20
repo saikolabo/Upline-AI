@@ -20,7 +20,7 @@ Contrairement aux filtres classiques qui coupent brutalement certaines fréquenc
 
 ## Krisp : la référence accessible à tous les micros
 
-[Krisp](https://krisp.ai/) est sans doute l'outil le plus populaire dans l'univers des streamers et des télétravailleurs. Son principe est simple : il s'installe comme un **périphérique audio virtuel** sur Windows ou Mac. Une fois configuré dans Discord, OBS, Teams ou n'importe quelle application, il filtre le bruit de fond à la volée.
+[Krisp](https://krisp.pxf.io/YV16zJ) est sans doute l'outil le plus populaire dans l'univers des streamers et des télétravailleurs. Son principe est simple : il s'installe comme un **périphérique audio virtuel** sur Windows ou Mac. Une fois configuré dans Discord, OBS, Teams ou n'importe quelle application, il filtre le bruit de fond à la volée.
 
 **Ce que propose la version gratuite :**
 - 60 minutes de suppression de bruit par semaine
@@ -86,6 +86,6 @@ Voici un récapitulatif rapide pour orienter votre choix :
 
 Il n'a jamais été aussi simple de **supprimer le bruit de micro grâce à l'IA, et gratuitement**. Que vous streamisez en live, enregistriez un podcast ou participiez à des sessions de gaming en équipe, une solution existe pour votre configuration.
 
-Commencez par tester [Krisp](https://krisp.ai/) si vous voulez un résultat immédiat sans contrainte matérielle. Passez sur [NVIDIA Broadcast](https://www.nvidia.com/broadcast) si vous avez une RTX et souhaitez la meilleure qualité possible en temps réel. Et tournez-vous vers [Cleanvoice AI](https://cleanvoice.ai/) pour peaufiner vos enregistrements en post-production.
+Commencez par tester [Krisp](https://krisp.pxf.io/YV16zJ) si vous voulez un résultat immédiat sans contrainte matérielle. Passez sur [NVIDIA Broadcast](https://www.nvidia.com/broadcast) si vous avez une RTX et souhaitez la meilleure qualité possible en temps réel. Et tournez-vous vers [Cleanvoice AI](https://cleanvoice.ai/) pour peaufiner vos enregistrements en post-production.
 
 Votre audience remarque toujours la qualité audio — donnez-lui ce qu'elle mérite.

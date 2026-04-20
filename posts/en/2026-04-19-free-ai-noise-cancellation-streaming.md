@@ -20,7 +20,7 @@ Unlike traditional filters that bluntly cut certain frequencies — often at the
 
 ## Krisp: The Go-To Tool That Works with Any Microphone
 
-[Krisp](https://krisp.ai/) is arguably the most popular noise-removal tool among streamers and remote workers alike. The concept is straightforward: it installs as a **virtual audio device** on Windows or Mac. Once set up in Discord, OBS, Teams, or any other app, it filters background noise on the fly.
+[Krisp](https://krisp.pxf.io/YV16zJ) is arguably the most popular noise-removal tool among streamers and remote workers alike. The concept is straightforward: it installs as a **virtual audio device** on Windows or Mac. Once set up in Discord, OBS, Teams, or any other app, it filters background noise on the fly.
 
 **What the free plan includes:**
 - 60 minutes of noise suppression per week
@@ -86,6 +86,6 @@ Here's a quick breakdown to help you decide:
 
 It has never been easier to **remove microphone background noise using AI — for free**. Whether you're live streaming, recording a podcast, or jumping into team gaming sessions, there's a solution that fits your setup.
 
-Start with [Krisp](https://krisp.ai/) if you want immediate results without any hardware requirements. Switch to [NVIDIA Broadcast](https://www.nvidia.com/broadcast) if you have an RTX card and want the best possible real-time quality. And turn to [Cleanvoice AI](https://cleanvoice.ai/) to polish your recordings in post-production.
+Start with [Krisp](https://krisp.pxf.io/YV16zJ) if you want immediate results without any hardware requirements. Switch to [NVIDIA Broadcast](https://www.nvidia.com/broadcast) if you have an RTX card and want the best possible real-time quality. And turn to [Cleanvoice AI](https://cleanvoice.ai/) to polish your recordings in post-production.
 
 Your audience always notices audio quality — give them what they deserve.

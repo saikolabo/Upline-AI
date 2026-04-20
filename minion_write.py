@@ -36,7 +36,7 @@ TODAY = date.today().isoformat()
 
 # ── Affiliate links — update with tracking URLs after joining programs ──────────
 AFFILIATE_LINKS: dict[str, str] = {
-    "krisp": "https://krisp.ai/",
+    "krisp": "https://krisp.pxf.io/YV16zJ",
     "nvidia broadcast": "https://www.nvidia.com/broadcast",
     "cleanvoice ai": "https://cleanvoice.ai/",
     "capsule": "https://getcapsule.ai/",
