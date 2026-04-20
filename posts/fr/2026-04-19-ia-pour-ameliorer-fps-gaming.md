@@ -32,7 +32,7 @@ Si vous streamez en parallèle de votre jeu, vous savez à quel point l'encodage
 
 [Nvidia Broadcast](https://www.nvidia.com/broadcast) exploite les capacités IA de votre GPU RTX pour gérer la suppression du bruit de fond, le flou d'arrière-plan et le cadrage automatique de caméra — le tout sans toucher à votre CPU. Résultat : votre processeur reste entièrement disponible pour le jeu. Sur un PC milieu de gamme, cela peut représenter un gain de **5 à 15 FPS supplémentaires** en session de stream.
 
-Dans la même logique, [Streamlabs](https://streamlabs.com/) intègre depuis 2025 un moteur d'encodage intelligent qui adapte dynamiquement le bitrate et la qualité d'encodage selon la charge système. Vous évitez ainsi les drops de FPS causés par un encodeur trop gourmand, tout en maintenant une qualité de diffusion stable pour vos viewers.
+Dans la même logique, [Streamlabs](https://streamlabs.pxf.io/oNzEBO) intègre depuis 2025 un moteur d'encodage intelligent qui adapte dynamiquement le bitrate et la qualité d'encodage selon la charge système. Vous évitez ainsi les drops de FPS causés par un encodeur trop gourmand, tout en maintenant une qualité de diffusion stable pour vos viewers.
 
 ## Les réglages IA souvent oubliés qui changent tout
 

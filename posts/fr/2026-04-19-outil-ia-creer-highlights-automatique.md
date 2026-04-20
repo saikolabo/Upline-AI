@@ -34,7 +34,7 @@ Capsule cible clairement les créateurs qui veulent maximiser leur présence sur
 
 ## Streamlabs : la suite complète avec détection de highlights intégrée
 
-Tu utilises déjà Streamlabs pour streamer ? Bonne nouvelle : la plateforme intègre désormais des fonctionnalités avancées de détection automatique de moments forts directement dans son écosystème. Avec [Streamlabs](https://streamlabs.com/), tu n'as pas besoin de jongler entre plusieurs applications.
+Tu utilises déjà Streamlabs pour streamer ? Bonne nouvelle : la plateforme intègre désormais des fonctionnalités avancées de détection automatique de moments forts directement dans son écosystème. Avec [Streamlabs](https://streamlabs.pxf.io/oNzEBO), tu n'as pas besoin de jongler entre plusieurs applications.
 
 L'outil analyse ton stream en direct et signale les passages à fort potentiel viral dès la fin de ta session. Les clips sont ensuite accessibles depuis ton tableau de bord, prêts à être téléchargés ou partagés directement.
 
@@ -75,6 +75,6 @@ L'outil fait le gros du travail, mais quelques bonnes pratiques font une vraie d
 
 Créer des highlights à la main, c'est clairement du temps pris sur ta créativité et ton énergie de streamer. En 2026, les outils IA pour créer des highlights automatiques sont suffisamment matures pour produire un contenu professionnel avec un minimum d'intervention de ta part.
 
-Si tu veux démarrer rapidement avec une solution tout-en-un orientée réseaux sociaux, teste [Capsule](https://getcapsule.ai/) — la qualité du rendu parle d'elle-même. Si tu préfères rester dans un écosystème que tu connais déjà, [Streamlabs](https://streamlabs.com/) intègre désormais ce qu'il faut pour ne plus passer à côté de tes meilleurs moments.
+Si tu veux démarrer rapidement avec une solution tout-en-un orientée réseaux sociaux, teste [Capsule](https://getcapsule.ai/) — la qualité du rendu parle d'elle-même. Si tu préfères rester dans un écosystème que tu connais déjà, [Streamlabs](https://streamlabs.pxf.io/oNzEBO) intègre désormais ce qu'il faut pour ne plus passer à côté de tes meilleurs moments.
 
 Arrête de laisser tes clips épiques dormir dans tes VODs. L'IA est là pour les mettre en lumière.

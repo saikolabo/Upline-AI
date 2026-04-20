@@ -27,7 +27,7 @@ Les deux approches sont complémentaires. Un streamer qui maximise les deux mult
 
 ### Streamlabs : l'écosystème tout-en-un
 
-Si vous êtes déjà sur [Streamlabs](https://streamlabs.com/), vous avez probablement sous-estimé ses capacités de transcription. La suite intègre désormais des sous-titres automatiques en temps réel directement dans le logiciel de capture, sans passer par un outil tiers. La reconnaissance vocale s'appuie sur des modèles IA entraînés spécifiquement sur du contenu gaming, ce qui fait une vraie différence sur les termes techniques, les noms de jeux et l'argot gamer.
+Si vous êtes déjà sur [Streamlabs](https://streamlabs.pxf.io/oNzEBO), vous avez probablement sous-estimé ses capacités de transcription. La suite intègre désormais des sous-titres automatiques en temps réel directement dans le logiciel de capture, sans passer par un outil tiers. La reconnaissance vocale s'appuie sur des modèles IA entraînés spécifiquement sur du contenu gaming, ce qui fait une vraie différence sur les termes techniques, les noms de jeux et l'argot gamer.
 
 **Points forts :**
 - Intégration native dans le flux de production (pas de latence supplémentaire)
@@ -84,4 +84,4 @@ Tous les outils ne se valent pas. Voici les points à évaluer avant de vous lan
 
 ## Conclusion : ne laissez plus vos streams mourir après le live
 
-L'IA transcription stream Twitch n'est plus un gadget réservé aux grandes chaînes. En 2026, c'est un levier stratégique pour tout streamer qui veut maximiser la portée de son contenu sans exploser son temps de production. Que vous choisissiez [Streamlabs](https://streamlabs.com/) pour les sous-titres en direct ou [Cleanvoice AI](https://cleanvoice.ai/) pour soigner votre audio avant transcription, l'essentiel est de mettre en place un workflow régulier
+L'IA transcription stream Twitch n'est plus un gadget réservé aux grandes chaînes. En 2026, c'est un levier stratégique pour tout streamer qui veut maximiser la portée de son contenu sans exploser son temps de production. Que vous choisissiez [Streamlabs](https://streamlabs.pxf.io/oNzEBO) pour les sous-titres en direct ou [Cleanvoice AI](https://cleanvoice.ai/) pour soigner votre audio avant transcription, l'essentiel est de mettre en place un workflow régulier

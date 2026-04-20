@@ -40,10 +40,10 @@ AFFILIATE_LINKS: dict[str, str] = {
     "nvidia broadcast": "https://www.nvidia.com/broadcast",
     "cleanvoice ai": "https://cleanvoice.ai/",
     "capsule": "https://getcapsule.ai/",
-    "streamlabs": "https://streamlabs.com/",
+    "streamlabs": "https://streamlabs.pxf.io/oNzEBO",
     "voicemod": "https://www.voicemod.net/",
     "epidemic sound": "https://www.epidemicsound.com/",
-    "ai coaching tools": "https://streamlabs.com/",
+    "ai coaching tools": "https://streamlabs.pxf.io/oNzEBO",
 }
 
 # ── System prompt (cacheable — same for all articles) ─────────────────────────

@@ -32,7 +32,7 @@ If you stream while you play, you know how much video encoding can eat into your
 
 [Nvidia Broadcast](https://www.nvidia.com/broadcast) leverages the AI capabilities of your RTX GPU to handle background noise suppression, background blur, and automatic camera framing — all without touching your CPU. The result: your processor stays fully available for the game. On a mid-range PC, that can translate to an extra **5 to 15 FPS** during streaming sessions.
 
-Along the same lines, [Streamlabs](https://streamlabs.com/) has integrated a smart encoding engine since 2025 that dynamically adjusts bitrate and encoding quality based on system load. This prevents the FPS drops caused by a resource-hungry encoder while keeping your stream quality consistently stable for viewers.
+Along the same lines, [Streamlabs](https://streamlabs.pxf.io/oNzEBO) has integrated a smart encoding engine since 2025 that dynamically adjusts bitrate and encoding quality based on system load. This prevents the FPS drops caused by a resource-hungry encoder while keeping your stream quality consistently stable for viewers.
 
 ## The AI Settings People Forget — That Actually Matter
 

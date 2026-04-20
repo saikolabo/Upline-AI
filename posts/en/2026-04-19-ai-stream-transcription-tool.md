@@ -27,7 +27,7 @@ Both approaches complement each other. A streamer who makes the most of both mul
 
 ### Streamlabs: The All-in-One Ecosystem
 
-If you're already using [Streamlabs](https://streamlabs.com/), you've probably been sleeping on its transcription capabilities. The suite now includes real-time automatic subtitles built directly into the capture software — no third-party tools required. The speech recognition relies on AI models specifically trained on gaming content, which makes a real difference when it comes to technical terms, game titles, and gamer slang.
+If you're already using [Streamlabs](https://streamlabs.pxf.io/oNzEBO), you've probably been sleeping on its transcription capabilities. The suite now includes real-time automatic subtitles built directly into the capture software — no third-party tools required. The speech recognition relies on AI models specifically trained on gaming content, which makes a real difference when it comes to technical terms, game titles, and gamer slang.
 
 **Strengths:**
 - Native integration into your production pipeline (no added latency)
@@ -84,4 +84,4 @@ Not all tools are created equal. Here are the key factors to evaluate before com
 
 ## Conclusion: Stop Letting Your Streams Die After You Go Offline
 
-AI transcription for Twitch streams is no longer a gimmick reserved for big-name channels. In 2026, it's a strategic lever for any streamer who wants to maximize the reach of their content without blowing up their production time. Whether you choose [Streamlabs](https://streamlabs.com/) for live subtitles or [Cleanvoice AI](https://cleanvoice.ai/) to polish your audio before transcription, the most important thing is building a consistent workflow you'll actually stick to.
+AI transcription for Twitch streams is no longer a gimmick reserved for big-name channels. In 2026, it's a strategic lever for any streamer who wants to maximize the reach of their content without blowing up their production time. Whether you choose [Streamlabs](https://streamlabs.pxf.io/oNzEBO) for live subtitles or [Cleanvoice AI](https://cleanvoice.ai/) to polish your audio before transcription, the most important thing is building a consistent workflow you'll actually stick to.

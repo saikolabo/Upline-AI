@@ -34,7 +34,7 @@ Capsule is clearly built for creators who want to maximize their social media pr
 
 ## Streamlabs: The Full Suite with Built-In Highlight Detection
 
-Already using Streamlabs to stream? Great news: the platform now includes advanced automatic highlight detection features built right into its ecosystem. With [Streamlabs](https://streamlabs.com/), there's no need to juggle multiple apps.
+Already using Streamlabs to stream? Great news: the platform now includes advanced automatic highlight detection features built right into its ecosystem. With [Streamlabs](https://streamlabs.pxf.io/oNzEBO), there's no need to juggle multiple apps.
 
 The tool analyzes your stream in real time and flags high-potential moments as soon as your session wraps up. Clips are then available directly from your dashboard, ready to download or share instantly.
 
@@ -75,6 +75,6 @@ The tool handles the heavy lifting, but a few good habits make a real difference
 
 Editing highlights by hand is a real drain on the creativity and energy you need as a streamer. In 2026, AI tools for automatic highlight creation are mature enough to produce professional-quality content with minimal input from you.
 
-If you want to hit the ground running with an all-in-one, social-media-focused solution, give [Capsule](https://getcapsule.ai/) a try — the output quality speaks for itself. If you'd rather stay within an ecosystem you already know, [Streamlabs](https://streamlabs.com/) now has everything you need to stop letting your best moments slip by.
+If you want to hit the ground running with an all-in-one, social-media-focused solution, give [Capsule](https://getcapsule.ai/) a try — the output quality speaks for itself. If you'd rather stay within an ecosystem you already know, [Streamlabs](https://streamlabs.pxf.io/oNzEBO) now has everything you need to stop letting your best moments slip by.
 
 Stop letting your most epic clips collect dust in your VODs. AI is here to put them in the spotlight.
