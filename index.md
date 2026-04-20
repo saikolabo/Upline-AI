@@ -9,6 +9,15 @@ Toutes nos analyses et comparatifs des meilleurs outils IA pour améliorer ton s
 
 ---
 
+### [Supprimer le bruit de fond avec l'IA : les meilleures solutions gratuites](posts/fr/2026-04-20-supprimer-bruit-micro-ia-gratuit.md)
+*2026-04-20* — Découvrez comment supprimer le bruit de fond de votre micro avec l'IA gratuitement. Comparatif des meilleures solutions pour streamers et gamers.
+
+### [Meilleures alternatives gratuites à Krisp en 2026](posts/fr/2026-04-20-meilleure-alternative-krisp-gratuite.md)
+*2026-04-20* — Cherchez la meilleure alternative Krisp gratuite ? Découvrez les outils IA qui suppriment le bruit de fond sans abonnement en 2026.
+
+### [IA de transcription pour Twitch : quels outils choisir en 2026 ?](posts/fr/2026-04-20-ia-transcription-stream-twitch.md)
+*2026-04-20* — Découvrez les meilleurs outils d'IA transcription stream Twitch en 2026 pour sous-titrer, recycler et booster votre contenu live facilement.
+
 ### [Supprimer le bruit de fond avec l'IA : les meilleures solutions gratuites](posts/fr/2026-04-19-supprimer-bruit-micro-ia-gratuit.md)
 *2026-04-19* — Découvrez comment supprimer le bruit micro IA gratuit avec les meilleures solutions 2026 pour streamers, gamers et créateurs de contenu.
 
@@ -24,4 +33,4 @@ Toutes nos analyses et comparatifs des meilleurs outils IA pour améliorer ton s
 ### [Comment améliorer la qualité de ton stream grâce à l'IA](posts/fr/2026-04-19-comment-ameliorer-qualite-stream-avec-ia.md)
 *2026-04-19* — Découvre comment améliorer la qualité de ton stream avec l'IA : son, vidéo, automatisation. Les meilleurs outils testés et comparés pour 2026.
 
-*5 article(s) — Mis à jour le 2026-04-19*
+*8 article(s) — Mis à jour le 2026-04-20*
