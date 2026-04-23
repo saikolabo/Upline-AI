@@ -9,6 +9,15 @@ All our reviews and comparisons of the best AI tools to improve your stream and 
 
 ---
 
+### [How to Improve Your Stream Quality with AI](posts/en/2026-04-23-how-to-use-ai-to-grow-twitch-channel.md)
+*2026-04-23* — Discover how to improve your stream quality with AI: audio, video, automation. The best tools tested and compared for streamers.
+
+### [Remove Background Noise with AI: The Best Free Solutions](posts/en/2026-04-23-free-ai-noise-cancellation-streaming.md)
+*2026-04-23* — Discover how to remove background noise from your microphone using AI, for free. A comparison of the best solutions for streamers and gamers.
+
+### [AI Transcription Tools for Twitch: What to Choose in 2026?](posts/en/2026-04-23-ai-stream-transcription-tool.md)
+*2026-04-23* — Discover the best AI transcription tools for Twitch streams in 2026 to boost your accessibility and repurpose your content effectively.
+
 ### [AI-Powered Background Noise Removal: The Best Free Solutions](posts/en/2026-04-20-free-ai-noise-cancellation-streaming.md)
 *2026-04-20* — Learn how to remove background noise from your microphone using AI for free. A comparison of the best solutions for streamers and gamers.
 
@@ -33,4 +42,4 @@ All our reviews and comparisons of the best AI tools to improve your stream and 
 ### [Boosting FPS with AI: The Best Solutions in 2026](posts/en/2026-04-19-ai-fps-improvement-tool.md)
 *2026-04-19* — Discover the best AI solutions for boosting gaming FPS in 2026: technologies, tools, and practical tips to supercharge your performance.
 
-*8 article(s) — Updated 2026-04-20*
+*11 article(s) — Updated 2026-04-23*
